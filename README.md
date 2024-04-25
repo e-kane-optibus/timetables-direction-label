@@ -5,5 +5,5 @@ This script references timetables.txt and directions.txt in feed.zip and generat
 
 ## Usage
 Tested with Python 3.9.<br>
-```python3 timetables.py feed.zip``` <br>
+```python3 timetables.py feed--ttable.zip``` <br>
 Adjusted file is exported to the current directory as timetables_new.txt, after which the file name can be updated and added to the feed's .zip file to replace the original timetables.txt. 
